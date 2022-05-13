@@ -22,12 +22,6 @@ Term: Spring 2022
 
 + **Contribution statement**: ([default](doc/a_note_on_contributions.md)) 
 	+ All team members designed the study together.
-	+ Shriya Nallamaddi and Jiuru Wang contribute to the ‘Arrest Records’ page.
-	+ Shiqi Tang contributes to the ‘’Homepage’, ‘Map’ and ‘Reference’ page.
-	+ Jiaxin Yu contributes to the ‘Shooting cases’ page.
-	+ Nichole Zhang contributes to the ‘Hate Crime’ page.
-	+ All team members helped in debugging and deploying the app.
-	+ Jiaxin Yu presents the project.
 	+ All team members approve our work presented in this GitHub repository including this contributions statement. 
 
 
